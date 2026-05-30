@@ -85,6 +85,7 @@ The migration was performed using an **incremental upgrade approach** instead of
 | Android Gradle Plugin | 4.x         | 8.x               |
 | Java/JDK              | 8           | 17                |
 | Kotlin                | 1.3.x       | 1.9.x             |
+| NDK                   | 23.x        | 28+               |
 | Hermes                | Disabled    | Enabled           |
 | Flipper               | Enabled     | Removed / Updated |
 
